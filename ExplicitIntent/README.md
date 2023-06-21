@@ -20,7 +20,6 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application
 
 ## PROGRAM:
-
 activity_main.xml :
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout 
@@ -79,7 +78,7 @@ android:id="@+id/resum"
 android:layout_width="wrap_content" 
 android:layout_height="wrap_content" 
 android:layout_marginLeft="150dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>'''
 MainActivity.java :
 /*
 Program to print the text “ExplicitIntent”. 
