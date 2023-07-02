@@ -20,6 +20,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application
 
 ## PROGRAM:
+```
 activity_main.xml :
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayoutxmlns:android="http://schemas.android.com/apk/res/android"
@@ -181,7 +182,7 @@ Program to print the text “ExplicitIntent”.
 Developed by: DANUSH
 Registeration Number : 212221040033
 */
-'''
+```
 ## OUTPUT
 ![image](https://github.com/danush564/Mobile-Application-Development/assets/98585166/5025a863-3605-4dbe-bbae-0fb9613d6ec9)
 ![image](https://github.com/danush564/Mobile-Application-Development/assets/98585166/b6d95214-2a03-4cac-b803-a37027bd14ab)
