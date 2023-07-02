@@ -21,6 +21,7 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM:
+```
 activity_main.xml :
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout 
@@ -82,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
 });
 }
 }
-
+```
 ## OUTPUT
 ![image](https://github.com/danush564/Mobile-Application-Development/assets/98585166/c987b675-847e-4f52-ac7f-c7b8c64c6392)
 ![image](https://github.com/danush564/Mobile-Application-Development/assets/98585166/92e9d9d1-6fde-4a00-bb6e-f999f18a3dc9)
