@@ -21,6 +21,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
 activity_main.xml :
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout 
@@ -135,6 +136,7 @@ ch = 1;
 });
 }
 }
+```
 ## OUTPUT
 ![IMG_20230615_205417](https://github.com/danush564/Mobile-Application-Development/assets/98585166/9161ee4a-f6b1-4e91-a878-3b73378e577a)
 
