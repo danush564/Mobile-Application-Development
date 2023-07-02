@@ -26,6 +26,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
 activity_main.xml :
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout 
@@ -94,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
-
+```
 ## OUTPUT
 ![image](https://github.com/danush564/Mobile-Application-Development/assets/98585166/169d3f25-894e-49b4-a300-3a51e201f85a)
 ![image](https://github.com/danush564/Mobile-Application-Development/assets/98585166/4e28e9bc-d495-4aef-b387-c08d1ffa4e96)
