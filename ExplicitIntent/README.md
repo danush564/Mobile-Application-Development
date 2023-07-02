@@ -81,11 +81,6 @@ android:layout_height="wrap_content"
 android:layout_marginLeft="150dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 MainActivity.java :
-/*
-Program to print the text “ExplicitIntent”.
-Developed by: N.SIDDARTHAN
-Registration Number: 212221040154
-*/
 package com.example.factorialcalculator;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
